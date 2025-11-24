@@ -1,3 +1,7 @@
+>  [!IMPORTANT]
+> This repository has been archived. Please find the active version here:
+> https://github.com/storyblok/tutorials/tree/main/build/seo-astro
+
 # SEO with Storyblok and Astro
 
 This repository includes all the code necessary to follow our latest [Better SEO with Storyblok and Astro](https://storyblok.com/tp/better-seo-with-storyblok-and-astro) tutorial.
