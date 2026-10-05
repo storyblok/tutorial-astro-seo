@@ -1,3 +1,7 @@
+> [!WARNING]
+> This repository is no longer maintained.
+> For a current Astro + Storyblok starter, use [blueprint-core-astro](https://github.com/storyblok/blueprint-core-astro).
+
 >  [!IMPORTANT]
 > This repository has been archived. Please find the active version here:
 > https://github.com/storyblok/tutorials/tree/main/build/seo-astro
